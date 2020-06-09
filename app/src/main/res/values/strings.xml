@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ByjusNewsAssignment</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="author_unknown">Unknown</string>
+    <string name="banner_image_content_description">Banner Image</string>
+    <string name="news_of_the_day">HEADLINES</string>
+    <string name="load_news">Load News</string>
+</resources>
